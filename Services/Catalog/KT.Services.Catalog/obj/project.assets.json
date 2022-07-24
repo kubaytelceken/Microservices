@@ -369,6 +369,16 @@
             "rid": "win"
           }
         }
+      },
+      "KT.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/KT.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KT.Shared.dll": {}
+        }
       }
     }
   },
@@ -1255,11 +1265,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "KT.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../../Shared/KT.Shared/KT.Shared.csproj",
+      "msbuildProject": "../../../Shared/KT.Shared/KT.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 11.0.0",
+      "KT.Shared >= 1.0.0",
       "MongoDB.Driver >= 2.17.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -1301,7 +1317,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Web\\KT.Microservices\\Shared\\KT.Shared\\KT.Shared.csproj": {
+              "projectPath": "D:\\Web\\KT.Microservices\\Shared\\KT.Shared\\KT.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

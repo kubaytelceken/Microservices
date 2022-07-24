@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KT.Services.Catalog.Dtos.CourseDtos
 {
-    public class CourseCreateDto
+    internal class CourseCreateDto
     {
 
         public string Name { get; set; }

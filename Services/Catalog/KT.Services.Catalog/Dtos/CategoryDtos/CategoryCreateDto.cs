@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace KT.Services.Catalog.Dtos.CategoryDtos
 {
-    public class CategoryCreateDto
+    internal class CategoryCreateDto
     {
         public string Name { get; set; }
     }
