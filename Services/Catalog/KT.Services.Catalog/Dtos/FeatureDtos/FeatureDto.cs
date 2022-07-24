@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace KT.Services.Catalog.Dtos.FeatureDtos
 {
-    internal class FeatureDto
+    public class FeatureDto
     {
         public int Duration { get; set; }
     }

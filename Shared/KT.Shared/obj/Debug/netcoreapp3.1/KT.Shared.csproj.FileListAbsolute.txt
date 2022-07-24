@@ -1,0 +1,10 @@
+D:\Web\KT.Microservices\Shared\KT.Shared\bin\Debug\netcoreapp3.1\KT.Shared.deps.json
+D:\Web\KT.Microservices\Shared\KT.Shared\bin\Debug\netcoreapp3.1\KT.Shared.dll
+D:\Web\KT.Microservices\Shared\KT.Shared\bin\Debug\netcoreapp3.1\KT.Shared.pdb
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.csproj.AssemblyReference.cache
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.AssemblyInfoInputs.cache
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.AssemblyInfo.cs
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.csproj.CoreCompileInputs.cache
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.dll
+D:\Web\KT.Microservices\Shared\KT.Shared\obj\Debug\netcoreapp3.1\KT.Shared.pdb

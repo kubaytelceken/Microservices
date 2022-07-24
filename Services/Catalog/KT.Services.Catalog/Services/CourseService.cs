@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using KT.Services.Catalog.Dtos.CourseDtos;
+using KT.Services.Catalog.Interfaces;
 using KT.Services.Catalog.Models;
 using KT.Services.Catalog.Settings;
 using KT.Shared.Dtos;
@@ -12,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace KT.Services.Catalog.Services
 {
-    internal class CourseService
+    public class CourseService : ICourseService
     {
         private readonly IMongoCollection<Course> _courseCollection;
         private readonly IMongoCollection<Category> _categoryCollection;

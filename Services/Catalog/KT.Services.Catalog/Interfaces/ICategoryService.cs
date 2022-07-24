@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace KT.Services.Catalog.Interfaces
 {
-    internal interface ICategoryService
+    public interface ICategoryService
     {
         Task<ResponseDto<List<CategoryDto>>> GetAllAsync();
         Task<ResponseDto<CategoryDto>> CreateAsync(CategoryCreateDto categoryCreateDto);

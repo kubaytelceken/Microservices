@@ -43,3 +43,11 @@ D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\obj\Debug\net5.0\KT
 D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\obj\Debug\net5.0\ref\KT.Services.Catalog.dll
 D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\obj\Debug\net5.0\KT.Services.Catalog.pdb
 D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\obj\Debug\net5.0\KT.Services.Catalog.genruntimeconfig.cache
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\AutoMapper.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\KT.Shared.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\KT.Shared.pdb
