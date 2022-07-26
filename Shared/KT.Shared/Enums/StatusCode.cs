@@ -7,7 +7,8 @@ namespace KT.Shared.Enums
     public enum StatusCode
     {
         Success = 200,
-        NoContent = 240,
-        NotFound = 404
+        NoContent = 204,
+        NotFound = 404,
+        BadRequest = 400
     }
 }
