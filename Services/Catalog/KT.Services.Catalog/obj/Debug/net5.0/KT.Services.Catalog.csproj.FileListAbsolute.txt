@@ -51,3 +51,10 @@ D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Mi
 D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\KT.Shared.dll
 D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\KT.Shared.pdb
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web\KT.Microservices\Services\Catalog\KT.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

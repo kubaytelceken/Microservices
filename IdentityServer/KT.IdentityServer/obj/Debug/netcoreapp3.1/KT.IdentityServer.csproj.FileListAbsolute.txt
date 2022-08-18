@@ -136,3 +136,5 @@ D:\Web\KT.Microservices\IdentityServer\KT.IdentityServer\obj\Debug\netcoreapp3.1
 D:\Web\KT.Microservices\IdentityServer\KT.IdentityServer\obj\Debug\netcoreapp3.1\KT.IdentityServer.dll
 D:\Web\KT.Microservices\IdentityServer\KT.IdentityServer\obj\Debug\netcoreapp3.1\KT.IdentityServer.pdb
 D:\Web\KT.Microservices\IdentityServer\KT.IdentityServer\obj\Debug\netcoreapp3.1\KT.IdentityServer.genruntimeconfig.cache
+D:\Web\KT.Microservices\IdentityServer\KT.IdentityServer\bin\Debug\netcoreapp3.1\KT.Shared.dll
+D:\Web\KT.Microservices\IdentityServer\KT.IdentityServer\bin\Debug\netcoreapp3.1\KT.Shared.pdb

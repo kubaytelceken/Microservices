@@ -1,2 +1,4 @@
 Services
-Catalog Api = 5011
+	-Catalog Api = 5011
+	-PhotoStock Api : 5012
+Identity Server : 5001
